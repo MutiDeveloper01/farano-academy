@@ -1,0 +1,146 @@
+{
+    "courses": [
+        {
+            "id": 1,
+            "title": "طراحی وب پیشرفته",
+            "description": "آموزش کامل طراحی وب با جدیدترین تکنولوژی‌های روز دنیا شامل HTML5, CSS3, JavaScript و فریمورک‌های مدرن.",
+            "category": "برنامه‌نویسی",
+            "duration": 60,
+            "price": 2500000,
+            "image": "assets/courses_img/programming.svg",
+            "schedule": [
+                {"day": "شنبه", "time": "16:00 - 18:00"},
+                {"day": "سه‌شنبه", "time": "16:00 - 18:00"}
+            ],
+            "instructor": {
+                "id": "instr-1",
+                "name": "علی محمدی"
+            }
+        },
+        {
+            "id": 2,
+            "title": "برنامه‌نویسی پایتون",
+            "description": "آموزش جامع برنامه‌نویسی پایتون از مبتدی تا پیشرفته با تمرکز بر پروژه‌های عملی.",
+            "category": "برنامه‌نویسی",
+            "duration": 80,
+            "price": 3000000,
+            "image": "assets/courses_img/programming.svg",
+            "schedule": [
+                {"day": "یکشنبه", "time": "18:00 - 20:00"},
+                {"day": "چهارشنبه", "time": "18:00 - 20:00"}
+            ],
+            "instructor": {
+                "id": "instr-2",
+                "name": "مریم حسینی"
+            }
+        },
+        {
+            "id": 3,
+            "title": "گرافیک کامپیوتری",
+            "description": "آموزش نرم‌افزارهای گرافیکی شامل Photoshop, Illustrator و CorelDRAW با پروژه‌های واقعی.",
+            "category": "گرافیک",
+            "duration": 50,
+            "price": 2200000,
+            "image": "assets/courses_img/programming.svg",
+            "schedule": [
+                {"day": "دوشنبه", "time": "14:00 - 16:00"},
+                {"day": "پنجشنبه", "time": "14:00 - 16:00"}
+            ],
+            "instructor": {
+                "id": "instr-3",
+                "name": "رضا نوروزی"
+            }
+        },
+        {
+            "id": 4,
+            "title": "شبکه‌های کامپیوتری",
+            "description": "آموزش مبانی شبکه‌های کامپیوتری، پیکربندی روتر و سوئیچ و مفاهیم امنیت شبکه.",
+            "category": "شبکه",
+            "duration": 70,
+            "price": 2800000,
+            "image": "assets/courses_img/programming.svg",
+            "schedule": [
+                {"day": "شنبه", "time": "18:00 - 20:00"},
+                {"day": "چهارشنبه", "time": "10:00 - 12:00"}
+            ],
+            "instructor": {
+                "id": "instr-4",
+                "name": "سارا احمدی"
+            }
+        },
+        {
+            "id": 5,
+            "title": "هوش مصنوعی مقدماتی",
+            "description": "آشنایی با مفاهیم پایه هوش مصنوعی و یادگیری ماشین با پیاده‌سازی پروژه‌های ساده.",
+            "category": "هوش مصنوعی",
+            "duration": 40,
+            "price": 3500000,
+            "image": "assets/courses_img/programming.svg",
+            "schedule": [
+                {"day": "دوشنبه", "time": "16:00 - 18:00"},
+                {"day": "پنجشنبه", "time": "16:00 - 18:00"}
+            ],
+            "instructor": {
+                "id": "instr-5",
+                "name": "امیرحسین رضایی"
+            }
+        }
+    ],
+    "instructors": [
+        {
+            "id": "instr-1",
+            "name": "علی محمدی",
+            "bio": "مدرس با سابقه طراحی وب با 10 سال تجربه در پروژه‌های بین‌المللی",
+            "image": "assets/images/instructors/instr-1.jpg",
+            "experience": "10 سال سابقه تدریس در دانشگاه‌های معتبر و آموزشگاه‌های فنی و حرفه‌ای. مدیر فنی در 5 پروژه بزرگ وب.",
+            "social": {
+                "linkedin": "https://linkedin.com/in/ali-mohammadi",
+                "website": "https://alimohammadi.ir"
+            }
+        },
+        {
+            "id": "instr-2",
+            "name": "مریم حسینی",
+            "bio": "متخصص پایتون و علم داده با سابقه کار در شرکت‌های فناوری",
+            "image": "assets/images/instructors/instr-2.jpg",
+            "experience": "8 سال سابقه برنامه‌نویسی حرفه‌ای پایتون. توسعه‌دهنده ارشد در شرکت‌های معتبر فناوری.",
+            "social": {
+                "linkedin": "https://linkedin.com/in/maryam-hosseini",
+                "website": "https://pythonacademy.ir"
+            }
+        },
+        {
+            "id": "instr-3",
+            "name": "رضا نوروزی",
+            "bio": "گرافیست حرفه‌ای با تخصص در طراحی رابط کاربری و تجربه کاربری",
+            "image": "assets/images/instructors/instr-3.jpg",
+            "experience": "12 سال سابقه کار در استودیوهای طراحی معتبر. برنده چندین جایزه بین‌المللی طراحی.",
+            "social": {
+                "linkedin": "https://linkedin.com/in/reza-norouzi",
+                "website": "https://norouzi-design.com"
+            }
+        },
+        {
+            "id": "instr-4",
+            "name": "سارا احمدی",
+            "bio": "متخصص شبکه و امنیت سایبری با مدارک بین‌المللی",
+            "image": "assets/images/instructors/instr-4.jpg",
+            "experience": "9 سال سابقه کار در زمینه شبکه‌های کامپیوتری. دارای مدارک CCNA و CCNP از سیسکو.",
+            "social": {
+                "linkedin": "https://linkedin.com/in/sara-ahmadi",
+                "website": "https://networksolutions.ir"
+            }
+        },
+        {
+            "id": "instr-5",
+            "name": "امیرحسین رضایی",
+            "bio": "محقق هوش مصنوعی و دانشجوی دکتری یادگیری ماشین",
+            "image": "assets/images/instructors/instr-5.jpg",
+            "experience": "5 سال سابقه تحقیق در زمینه هوش مصنوعی. نویسنده چندین مقاله معتبر بین‌المللی.",
+            "social": {
+                "linkedin": "https://linkedin.com/in/amirhossein-rezaei",
+                "website": "https://ai-research.ir"
+            }
+        }
+    ]
+}
