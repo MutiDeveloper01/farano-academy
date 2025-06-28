@@ -1,7 +1,4 @@
-@font-face {
-        font-family: 'Vazir';
-        src: url(/assets/fonts/Vazir.woff);
-}
+
 *{
         padding: 0;
         margin: 0;
@@ -10,5 +7,5 @@
 * , 
 html , 
 body{
-        font-family: 'Vazir';
+        font-family: 'Vazirmatn';
 }

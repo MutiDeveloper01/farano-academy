@@ -91,7 +91,7 @@
             "id": "instr-1",
             "name": "علی محمدی",
             "bio": "مدرس با سابقه طراحی وب با 10 سال تجربه در پروژه‌های بین‌المللی",
-            "image": "assets/images/instructors/instr-1.jpg",
+            "image": "assets/teachers_img/32.jpg",
             "experience": "10 سال سابقه تدریس در دانشگاه‌های معتبر و آموزشگاه‌های فنی و حرفه‌ای. مدیر فنی در 5 پروژه بزرگ وب.",
             "social": {
                 "linkedin": "https://linkedin.com/in/ali-mohammadi",
@@ -102,7 +102,7 @@
             "id": "instr-2",
             "name": "مریم حسینی",
             "bio": "متخصص پایتون و علم داده با سابقه کار در شرکت‌های فناوری",
-            "image": "assets/images/instructors/instr-2.jpg",
+            "image": "assets/teachers_img/44.jpg",
             "experience": "8 سال سابقه برنامه‌نویسی حرفه‌ای پایتون. توسعه‌دهنده ارشد در شرکت‌های معتبر فناوری.",
             "social": {
                 "linkedin": "https://linkedin.com/in/maryam-hosseini",
@@ -113,7 +113,7 @@
             "id": "instr-3",
             "name": "رضا نوروزی",
             "bio": "گرافیست حرفه‌ای با تخصص در طراحی رابط کاربری و تجربه کاربری",
-            "image": "assets/images/instructors/instr-3.jpg",
+            "image": "assets/teachers_img/68.jpg",
             "experience": "12 سال سابقه کار در استودیوهای طراحی معتبر. برنده چندین جایزه بین‌المللی طراحی.",
             "social": {
                 "linkedin": "https://linkedin.com/in/reza-norouzi",
@@ -124,7 +124,7 @@
             "id": "instr-4",
             "name": "سارا احمدی",
             "bio": "متخصص شبکه و امنیت سایبری با مدارک بین‌المللی",
-            "image": "assets/images/instructors/instr-4.jpg",
+            "image": "assets/teachers_img/75.jpg",
             "experience": "9 سال سابقه کار در زمینه شبکه‌های کامپیوتری. دارای مدارک CCNA و CCNP از سیسکو.",
             "social": {
                 "linkedin": "https://linkedin.com/in/sara-ahmadi",
@@ -135,7 +135,7 @@
             "id": "instr-5",
             "name": "امیرحسین رضایی",
             "bio": "محقق هوش مصنوعی و دانشجوی دکتری یادگیری ماشین",
-            "image": "assets/images/instructors/instr-5.jpg",
+            "image": "assets/teachers_img/85.jpg",
             "experience": "5 سال سابقه تحقیق در زمینه هوش مصنوعی. نویسنده چندین مقاله معتبر بین‌المللی.",
             "social": {
                 "linkedin": "https://linkedin.com/in/amirhossein-rezaei",
