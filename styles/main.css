@@ -21,7 +21,7 @@ body{
         border-radius: 50%;
         color: white;
 }
-.btn-phne{
+.btn-phone{
         position: fixed;
         z-index: 100;
         width:  55px;
@@ -31,4 +31,6 @@ body{
         font-size: 1.25rem;
         border-radius: 50%;
         color: white;
+        display: grid;
+        place-items: center;
 }
