@@ -10,7 +10,7 @@ body{
         font-family: 'Vazirmatn';
 }
 
-.toggle-btn-card{
+.btn-card-fixed{
         position: fixed;
         z-index: 100;
         width:  55px;
@@ -21,7 +21,7 @@ body{
         border-radius: 50%;
         color: white;
 }
-.btn-phone{
+.btn-phone-fixed{
         position: fixed;
         z-index: 100;
         width:  55px;
