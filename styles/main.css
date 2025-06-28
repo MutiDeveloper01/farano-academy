@@ -9,3 +9,26 @@ html ,
 body{
         font-family: 'Vazirmatn';
 }
+
+.toggle-btn-card{
+        position: fixed;
+        z-index: 100;
+        width:  55px;
+        height: 55px;
+        right: 1.5rem;
+        bottom:3rem;
+        font-size: 1.25rem;
+        border-radius: 50%;
+        color: white;
+}
+.btn-phne{
+        position: fixed;
+        z-index: 100;
+        width:  55px;
+        height: 55px;
+        right: 1.5rem;
+        bottom:7rem;
+        font-size: 1.25rem;
+        border-radius: 50%;
+        color: white;
+}
